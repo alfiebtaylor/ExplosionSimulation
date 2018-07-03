@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{EA5AE6A1-77AE-46DC-C764-E235D275521E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Explosion.cs">
+    <Files>
+      <File FileName="Assets/Explosion.cs" Line="37" Column="57" />
+      <File FileName="Assets/Western Props/Scripts/Destructible.cs" Line="16" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.prjGrenadeExplosion PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
